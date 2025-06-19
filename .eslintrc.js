@@ -9,5 +9,6 @@ module.exports = {
     "ecmaVersion": 11
   },
   "rules": {
+    "linebreak-style": ["error", "windows"]
   }
 };
